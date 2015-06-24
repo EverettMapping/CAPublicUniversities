@@ -1,0 +1,1166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>ca-unis-without-lat-long.csv</name>
+	<open>1</open>
+	<Style id="icon-503-DB4436">
+		<IconStyle>
+			<color>ff3644db</color>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+			</Icon>
+		</IconStyle>
+	</Style>
+	<Placemark>
+		<name>UC Los Angeles</name>
+		<address>, Los Angeles, CA, 90095</address>
+		<description><![CDATA[Address: <br>City: Los Angeles<br>State: CA<br>Zipcode: 90095<br>Group: UC<br>URL: http://ucla.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+			</Data>
+			<Data name="City">
+				<value>Los Angeles</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>90095.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>http://ucla.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-118.4440562,34.070264,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-118.451304905919,34.0648274705605,0 -118.451304905919,34.0757005294395,0 -118.436807494081,34.0757005294395,0 -118.436807494081,34.0648274705605,0 -118.451304905919,34.0648274705605,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC San Diego</name>
+		<address>9500 Gilman Dr, La Jolla, CA, 92093</address>
+		<description><![CDATA[Address: 9500 Gilman Dr<br>City: La Jolla<br>State: CA<br>Zipcode: 92093<br>Group: UC<br>URL: http://ucsd.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>9500 Gilman Dr</value>
+			</Data>
+			<Data name="City">
+				<value>La Jolla</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92093.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>http://ucsd.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.2402136,32.8806656,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.243888055606,32.8779097582953,0 -117.243888055606,32.8834214417047,0 -117.236539144394,32.8834214417047,0 -117.236539144394,32.8779097582953,0 -117.243888055606,32.8779097582953,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Santa Barbara</name>
+		<address>University of California,Santa Barbara, Santa Barbara, CA , 93106</address>
+		<description><![CDATA[Address: University of California,Santa Barbara<br>City: Santa Barbara<br>State: CA <br>Zipcode: 93106<br>Group: UC<br>URL: ucsb.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>University of California,Santa Barbara</value>
+			</Data>
+			<Data name="City">
+				<value>Santa Barbara</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>93106.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>ucsb.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-119.848947,34.413963,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-119.852556580488,34.4112558146341,0 -119.852556580488,34.4166701853659,0 -119.845337419512,34.4166701853659,0 -119.845337419512,34.4112558146341,0 -119.852556580488,34.4112558146341,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Santa Cruz</name>
+		<address>1156 High St, Santa Cruz, CA, 95064</address>
+		<description><![CDATA[Address: 1156 High St<br>City: Santa Cruz<br>State: CA<br>Zipcode: 95064<br>Group: UC<br>URL: ucsc.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1156 High St</value>
+			</Data>
+			<Data name="City">
+				<value>Santa Cruz</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95064.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>ucsc.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.0589534,36.9956929,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.062447929749,36.9930720026883,0 -122.062447929749,36.9983137973117,0 -122.055458870251,36.9983137973117,0 -122.055458870251,36.9930720026883,0 -122.062447929749,36.9930720026883,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Irvine</name>
+		<address>University of California Irvine, Irvine, CA, 92697</address>
+		<description><![CDATA[Address: University of California Irvine<br>City: Irvine<br>State: CA<br>Zipcode: 92697<br>Group: UC<br>URL: uci.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>University of California Irvine</value>
+			</Data>
+			<Data name="City">
+				<value>Irvine</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92697.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>uci.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.844296,33.640495,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.847938632616,33.6377630255379,0 -117.847938632616,33.6432269744621,0 -117.840653367384,33.6432269744621,0 -117.840653367384,33.6377630255379,0 -117.847938632616,33.6377630255379,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Riverside</name>
+		<address>900 University Avenue, Riverside, CA, 92521</address>
+		<description><![CDATA[Address: 900 University Avenue<br>City: Riverside<br>State: CA<br>Zipcode: 92521<br>Group: UC<br>URL: ucr.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>900 University Avenue</value>
+			</Data>
+			<Data name="City">
+				<value>Riverside</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92521.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>ucr.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.3242595,33.9745449,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.327887938956,33.9718235707828,0 -117.327887938956,33.9772662292172,0 -117.320631061044,33.9772662292172,0 -117.320631061044,33.9718235707828,0 -117.327887938956,33.9718235707828,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Merced</name>
+		<address>5200 Lake Road, Merced, CA, 95343</address>
+		<description><![CDATA[Address: 5200 Lake Road<br>City: Merced<br>State: CA<br>Zipcode: 95343<br>Group: UC<br>URL: ucmerced.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>5200 Lake Road</value>
+			</Data>
+			<Data name="City">
+				<value>Merced</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95343.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>ucmerced.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-120.4311096,37.3637343,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-120.434587145214,37.3611261410898,0 -120.434587145214,37.3663424589102,0 -120.427632054786,37.3663424589102,0 -120.427632054786,37.3611261410898,0 -120.434587145214,37.3611261410898,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Davis</name>
+		<address>1 Shields Avenue, Davis, CA, 95616</address>
+		<description><![CDATA[Address: 1 Shields Avenue<br>City: Davis<br>State: CA<br>Zipcode: 95616<br>Group: UC<br>URL: ucdavis.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1 Shields Avenue</value>
+			</Data>
+			<Data name="City">
+				<value>Davis</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95616.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>ucdavis.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.7489592,38.5345143,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-121.752381764728,38.5319473764543,0 -121.752381764728,38.5370812235457,0 -121.745536635272,38.5370812235457,0 -121.745536635272,38.5319473764543,0 -121.752381764728,38.5319473764543,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC Berkeley</name>
+		<address>UCB, Berkeley, CA, 94720</address>
+		<description><![CDATA[Address: UCB<br>City: Berkeley<br>State: CA<br>Zipcode: 94720<br>Group: UC<br>URL: berkeley.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>UCB</value>
+			</Data>
+			<Data name="City">
+				<value>Berkeley</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>94720.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>berkeley.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.26073,37.871796,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.264183863349,37.8692056024886,0 -122.264183863349,37.8743863975114,0 -122.257276136651,37.8743863975114,0 -122.257276136651,37.8692056024886,0 -122.264183863349,37.8692056024886,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>UC San Francisco</name>
+		<address>500 Parnassus Avenue, San Francisco, CA, 94143</address>
+		<description><![CDATA[Address: 500 Parnassus Avenue<br>City: San Francisco<br>State: CA<br>Zipcode: 94143<br>Group: UC<br>URL: ucsf.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>500 Parnassus Avenue</value>
+			</Data>
+			<Data name="City">
+				<value>San Francisco</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>94143.0</value>
+			</Data>
+			<Data name="Group">
+				<value>UC</value>
+			</Data>
+			<Data name="URL">
+				<value>ucsf.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4587043,37.7634602,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.462163235961,37.7608659980296,0 -122.462163235961,37.7660544019704,0 -122.455245364039,37.7660544019704,0 -122.455245364039,37.7608659980296,0 -122.462163235961,37.7608659980296,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Humboldt</name>
+		<address>1 Harpst St, Arcata, CA, 95521</address>
+		<description><![CDATA[Address: 1 Harpst St<br>City: Arcata<br>State: CA<br>Zipcode: 95521<br>Group: CSU<br>URL: https://www.humboldt.edu/_]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1 Harpst St</value>
+			</Data>
+			<Data name="City">
+				<value>Arcata</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95521.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>https://www.humboldt.edu/_</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-124.0790979,40.8744392,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-124.082406321926,40.8719578835555,0 -124.082406321926,40.8769205164445,0 -124.075789478074,40.8769205164445,0 -124.075789478074,40.8719578835555,0 -124.082406321926,40.8719578835555,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Chico</name>
+		<address>400 W 1st St, Chico, CA, 95929</address>
+		<description><![CDATA[Address: 400 W 1st St<br>City: Chico<br>State: CA<br>Zipcode: 95929<br>Group: CSU<br>URL: www.csuchico.edu/_]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>400 W 1st St</value>
+			</Data>
+			<Data name="City">
+				<value>Chico</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95929.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>www.csuchico.edu/_</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.8463457,39.7279291,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-121.849710750714,39.7254053119647,0 -121.849710750714,39.7304528880353,0 -121.842980649286,39.7304528880353,0 -121.842980649286,39.7254053119647,0 -121.849710750714,39.7254053119647,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Sonoma State</name>
+		<address>1801 E Cotati Ave, Rohnert Park, CA, 94928</address>
+		<description><![CDATA[Address: 1801 E Cotati Ave<br>City: Rohnert Park<br>State: CA<br>Zipcode: 94928<br>Group: CSU<br>URL: https://www.sonoma.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1801 E Cotati Ave</value>
+			</Data>
+			<Data name="City">
+				<value>Rohnert Park</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>94928.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>https://www.sonoma.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.6733474,38.3393615,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.676779229088,38.3367876281842,0 -122.676779229088,38.3419353718158,0 -122.669915570912,38.3419353718158,0 -122.669915570912,38.3367876281842,0 -122.676779229088,38.3367876281842,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Sacramento</name>
+		<address>6000 J St, Sacramento, CA, 95819</address>
+		<description><![CDATA[Address: 6000 J St<br>City: Sacramento<br>State: CA<br>Zipcode: 95819<br>Group: CSU<br>URL: csus.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>6000 J St</value>
+			</Data>
+			<Data name="City">
+				<value>Sacramento</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95819.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csus.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.4206253,38.5599592,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-121.42404665387,38.5573931845973,0 -121.42404665387,38.5625252154028,0 -121.41720394613,38.5625252154028,0 -121.41720394613,38.5573931845973,0 -121.42404665387,38.5573931845973,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Maritime</name>
+		<address>200 Maritime Academy Dr, Vallejo, CA, 94590</address>
+		<description><![CDATA[Address: 200 Maritime Academy Dr<br>City: Vallejo<br>State: CA<br>Zipcode: 94590<br>Group: CSU<br>URL: csum.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>200 Maritime Academy Dr</value>
+			</Data>
+			<Data name="City">
+				<value>Vallejo</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>94590.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csum.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.2317302,38.0697508,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.235174762619,38.0671673780354,0 -122.235174762619,38.0723342219646,0 -122.228285637381,38.0723342219646,0 -122.228285637381,38.0671673780354,0 -122.235174762619,38.0671673780354,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>San Francisco</name>
+		<address>1600 Holloway Ave, San Francisco, CA, 94132</address>
+		<description><![CDATA[Address: 1600 Holloway Ave<br>City: San Francisco<br>State: CA<br>Zipcode: 94132<br>Group: CSU<br>URL: sfsu.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1600 Holloway Ave</value>
+			</Data>
+			<Data name="City">
+				<value>San Francisco</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>94132.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>sfsu.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.4794032,37.7219699,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.482864075389,37.7193742434584,0 -122.482864075389,37.7245655565416,0 -122.475942324611,37.7245655565416,0 -122.475942324611,37.7193742434584,0 -122.482864075389,37.7193742434584,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>East Bay</name>
+		<address>25976 Carlos Bee Blvd, Hayward, CA, 94542</address>
+		<description><![CDATA[Address: 25976 Carlos Bee Blvd<br>City: Hayward<br>State: CA<br>Zipcode: 94542<br>Group: CSU<br>URL: csueastbay.edu/_]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>25976 Carlos Bee Blvd</value>
+			</Data>
+			<Data name="City">
+				<value>Hayward</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>94542.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csueastbay.edu/_</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-122.0560019,37.655226,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-122.059465891466,37.6526280064002,0 -122.059465891466,37.6578239935998,0 -122.052537908534,37.6578239935998,0 -122.052537908534,37.6526280064002,0 -122.059465891466,37.6526280064002,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>San Jose State</name>
+		<address>1 Washington Sq, San Jose, CA, 95112</address>
+		<description><![CDATA[Address: 1 Washington Sq<br>City: San Jose<br>State: CA<br>Zipcode: 95112<br>Group: CSU<br>URL: sjsu.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1 Washington Sq</value>
+			</Data>
+			<Data name="City">
+				<value>San Jose</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95112.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>sjsu.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.8848865,37.3348181,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-121.888365384854,37.3322089363594,0 -121.888365384854,37.3374272636406,0 -121.881407615146,37.3374272636406,0 -121.881407615146,37.3322089363594,0 -121.888365384854,37.3322089363594,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Stanislaus</name>
+		<address>1 University Cir, Turlock, CA, 95382</address>
+		<description><![CDATA[Address: 1 University Cir<br>City: Turlock<br>State: CA<br>Zipcode: 95382<br>Group: CSU<br>URL: csustan.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1 University Cir</value>
+			</Data>
+			<Data name="City">
+				<value>Turlock</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>95382.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csustan.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-120.8571732,37.5237586,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-120.860643315543,37.5211560133428,0 -120.860643315543,37.5263611866572,0 -120.853703084457,37.5263611866572,0 -120.853703084457,37.5211560133428,0 -120.860643315543,37.5211560133428,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Monterey</name>
+		<address>100 Campus Center, Seaside, CA, 93955</address>
+		<description><![CDATA[Address: 100 Campus Center<br>City: Seaside<br>State: CA<br>Zipcode: 93955<br>Group: CSU<br>URL: csumb.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>100 Campus Center</value>
+			</Data>
+			<Data name="City">
+				<value>Seaside</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>93955.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csumb.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-121.8080914,36.6544335,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-121.811601549519,36.6518008878608,0 -121.811601549519,36.6570661121392,0 -121.804581250481,36.6570661121392,0 -121.804581250481,36.6518008878608,0 -121.811601549519,36.6518008878608,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Cal Poly</name>
+		<address>San Luis Obispo, San Luis Obispo, , 93407</address>
+		<description><![CDATA[Address: San Luis Obispo<br>City: San Luis Obispo<br>State: <br>Zipcode: 93407<br>Group: CSU<br>URL: calpoly.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>San Luis Obispo</value>
+			</Data>
+			<Data name="City">
+				<value>San Luis Obispo</value>
+			</Data>
+			<Data name="State">
+			</Data>
+			<Data name="Zipcode">
+				<value>93407.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>calpoly.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-120.6531793,35.2959663,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-120.656750388012,35.2932879839909,0 -120.656750388012,35.2986446160091,0 -120.649608211988,35.2986446160091,0 -120.649608211988,35.2932879839909,0 -120.656750388012,35.2932879839909,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Channel Islands</name>
+		<address>1 University Dr, Camarillo, CA, 93012</address>
+		<description><![CDATA[Address: 1 University Dr<br>City: Camarillo<br>State: CA<br>Zipcode: 93012<br>Group: CSU<br>URL: csuci.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1 University Dr</value>
+			</Data>
+			<Data name="City">
+				<value>Camarillo</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>93012.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csuci.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-119.0459178,34.1652484,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-119.049538080698,34.1625331894765,0 -119.049538080698,34.1679636105235,0 -119.042297519302,34.1679636105235,0 -119.042297519302,34.1625331894765,0 -119.049538080698,34.1625331894765,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Fresno State</name>
+		<address>5241 N Maple Ave, Fresno, CA, 93740</address>
+		<description><![CDATA[Address: 5241 N Maple Ave<br>City: Fresno<br>State: CA<br>Zipcode: 93740<br>Group: CSU<br>URL: fresnostate.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>5241 N Maple Ave</value>
+			</Data>
+			<Data name="City">
+				<value>Fresno</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>93740.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>fresnostate.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-119.7462226,36.8108284,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-119.749725606598,36.8082011450514,0 -119.749725606598,36.8134556549486,0 -119.742719593402,36.8134556549486,0 -119.742719593402,36.8082011450514,0 -119.749725606598,36.8082011450514,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Bakersfield</name>
+		<address>9001 Stockdale Hwy, Bakersfield, CA, 93311</address>
+		<description><![CDATA[Address: 9001 Stockdale Hwy<br>City: Bakersfield<br>State: CA<br>Zipcode: 93311<br>Group: CSU<br>URL: csub.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>9001 Stockdale Hwy</value>
+			</Data>
+			<Data name="City">
+				<value>Bakersfield</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>93311.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csub.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-119.1032316,35.3514594,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-119.106800237784,35.3487829216617,0 -119.106800237784,35.3541358783383,0 -119.099662962216,35.3541358783383,0 -119.099662962216,35.3487829216617,0 -119.106800237784,35.3487829216617,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Northridge</name>
+		<address>18111 Nordhoff Street, Northridge, CA, 91330</address>
+		<description><![CDATA[Address: 18111 Nordhoff Street<br>City: Northridge<br>State: CA<br>Zipcode: 91330<br>Group: CSU<br>URL: csun.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>18111 Nordhoff Street</value>
+			</Data>
+			<Data name="City">
+				<value>Northridge</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>91330.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csun.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-118.5295428,34.2433237,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-118.533159729076,34.2406110031932,0 -118.533159729076,34.2460363968068,0 -118.525925870924,34.2460363968068,0 -118.525925870924,34.2406110031932,0 -118.533159729076,34.2406110031932,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>San Bernadino</name>
+		<address>5500 University Pkwy, San Bernardino, CA, 92407</address>
+		<description><![CDATA[Address: 5500 University Pkwy<br>City: San Bernardino<br>State: CA<br>Zipcode: 92407<br>Group: CSU<br>URL: csusb.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>5500 University Pkwy</value>
+			</Data>
+			<Data name="City">
+				<value>San Bernardino</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92407.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csusb.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.3216899,34.1836662,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.325309390663,34.1809515820028,0 -117.325309390663,34.1863808179972,0 -117.318070409337,34.1863808179972,0 -117.318070409337,34.1809515820028,0 -117.325309390663,34.1809515820028,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Cal Fullerton</name>
+		<address>800 North State College Blvd, Fullerton, CA, 92831</address>
+		<description><![CDATA[Address: 800 North State College Blvd<br>City: Fullerton<br>State: CA<br>Zipcode: 92831<br>Group: CSU<br>URL: fullerton.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>800 North State College Blvd</value>
+			</Data>
+			<Data name="City">
+				<value>Fullerton</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92831.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>fullerton.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.889915,33.8778593,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.893547559797,33.8751348801523,0 -117.893547559797,33.8805837198477,0 -117.886282440203,33.8805837198477,0 -117.886282440203,33.8751348801523,0 -117.893547559797,33.8751348801523,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Pomona</name>
+		<address>3801 W Temple Ave, Pomona, CA, 91768</address>
+		<description><![CDATA[Address: 3801 W Temple Ave<br>City: Pomona<br>State: CA<br>Zipcode: 91768<br>Group: CSU<br>URL: csupomona.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>3801 W Temple Ave</value>
+			</Data>
+			<Data name="City">
+				<value>Pomona</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>91768.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csupomona.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.8149838,34.0498868,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.818609020643,34.0471678845178,0 -117.818609020643,34.0526057154822,0 -117.811358579357,34.0526057154822,0 -117.811358579357,34.0471678845178,0 -117.818609020643,34.0471678845178,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>CSU Long Beach</name>
+		<address>250 Bellflower Blvd, Long Beach, CA, 90840</address>
+		<description><![CDATA[Address: 250 Bellflower Blvd<br>City: Long Beach<br>State: CA<br>Zipcode: 90840<br>Group: CSU<br>URL: csulb.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>250 Bellflower Blvd</value>
+			</Data>
+			<Data name="City">
+				<value>Long Beach</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>90840.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csulb.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-118.1209844,33.7680905,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-118.124621625718,33.7653625807114,0 -118.124621625718,33.7708184192886,0 -118.117347174282,33.7708184192886,0 -118.117347174282,33.7653625807114,0 -118.124621625718,33.7653625807114,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>Dominguez Hills</name>
+		<address>1000 E Victoria Street, Carson, CA, 90747</address>
+		<description><![CDATA[Address: 1000 E Victoria Street<br>City: Carson<br>State: CA<br>Zipcode: 90747<br>Group: CSU<br>URL: csudh.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>1000 E Victoria Street</value>
+			</Data>
+			<Data name="City">
+				<value>Carson</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>90747.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csudh.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-118.2589841,33.8652873,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-118.262617194869,33.8625624788483,0 -118.262617194869,33.8680121211517,0 -118.255351005131,33.8680121211517,0 -118.255351005131,33.8625624788483,0 -118.262617194869,33.8625624788483,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>San Marcos</name>
+		<address>333 South Twin Oaks Valley Rd, San Marcos, CA, 92078</address>
+		<description><![CDATA[Address: 333 South Twin Oaks Valley Rd<br>City: San Marcos<br>State: CA<br>Zipcode: 92078<br>Group: CSU<br>URL: csusm.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>333 South Twin Oaks Valley Rd</value>
+			</Data>
+			<Data name="City">
+				<value>San Marcos</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92078.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>csusm.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.1595291,33.1287176,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.163193237528,33.1259694968538,0 -117.163193237528,33.1314657031462,0 -117.155864962472,33.1314657031462,0 -117.155864962472,33.1259694968538,0 -117.163193237528,33.1259694968538,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+	<Placemark>
+		<name>San Diego State</name>
+		<address>5500 Campanile Dr, San Diego, CA, 92182</address>
+		<description><![CDATA[Address: 5500 Campanile Dr<br>City: San Diego<br>State: CA<br>Zipcode: 92182<br>Group: CSU<br>URL: sdsu.edu]]></description>
+		<styleUrl>#icon-503-DB4436</styleUrl>
+		<ExtendedData>
+			<Data name="Address">
+				<value>5500 Campanile Dr</value>
+			</Data>
+			<Data name="City">
+				<value>San Diego</value>
+			</Data>
+			<Data name="State">
+				<value>CA</value>
+			</Data>
+			<Data name="Zipcode">
+				<value>92182.0</value>
+			</Data>
+			<Data name="Group">
+				<value>CSU</value>
+			</Data>
+			<Data name="URL">
+				<value>sdsu.edu</value>
+			</Data>
+		</ExtendedData>
+		<MultiGeometry>
+			<Point>
+				<coordinates>-117.0727092,32.7719139,0</coordinates>
+			</Point>
+			<LinearRing>
+				<coordinates>
+					-117.076388157584,32.7691546818119,0 -117.076388157584,32.7746731181881,0 -117.069030242416,32.7746731181881,0 -117.069030242416,32.7691546818119,0 -117.076388157584,32.7691546818119,0 
+				</coordinates>
+			</LinearRing>
+		</MultiGeometry>
+	</Placemark>
+</Document>
+</kml>
